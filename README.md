@@ -19,34 +19,34 @@ It includes multiple pages like landing page, login, signup, dashboard, etc.
 ## 📊 DFD & Architecture
 
 ### 🔹 DFD & Architecture Diagram
-![DFD](rough-scratch/WhatsApp%20Image%202026-03-25%20at%207.59.52%20PM.jpeg.jpg)
+![DFD](https://raw.githubusercontent.com/ashutoshraj9065-svg/oldcode/refs/heads/master/rough-scratch/WhatsApp%20Image%202026-03-25%20at%207.59.52%20PM.jpeg)
 
 ---
 
 ## 🖼️ Wireframes
 
 ### Landing Page
-![Landing](rough-scratch/WhatsApp%20Image%202026-03-25%20at%206.37.47%20PM.jpeg.jpg)
+![Landing](https://raw.githubusercontent.com/ashutoshraj9065-svg/oldcode/refs/heads/master/rough-scratch/WhatsApp%20Image%202026-03-25%20at%206.37.47%20PM.jpeg)
 
 ### Login Page
-![Login](rough-scratch/WhatsApp%20Image%202026-03-25%20at%206.37.48%20PM.jpeg.jpg)
+![Login](https://raw.githubusercontent.com/ashutoshraj9065-svg/oldcode/refs/heads/master/rough-scratch/WhatsApp%20Image%202026-03-25%20at%206.37.48%20PM.jpeg)
 
 ### Signup Page
-![Signup](rough-scratch/WhatsApp%20Image%202026-03-25%20at%206.37.51%20PM.jpeg.jpg)
+![Signup](https://raw.githubusercontent.com/ashutoshraj9065-svg/oldcode/refs/heads/master/rough-scratch/WhatsApp%20Image%202026-03-25%20at%206.37.51%20PM.jpeg)
 
 ### Forgot Password
-![Forgot](rough-scratch/WhatsApp%20Image%202026-03-25%20at%206.37.56%20PM.jpeg.jpg)
+![Forgot](https://raw.githubusercontent.com/ashutoshraj9065-svg/oldcode/refs/heads/master/rough-scratch/WhatsApp%20Image%202026-03-25%20at%206.37.56%20PM.jpeg)
 
 ### User Dashboard
-![User](rough-scratch/WhatsApp%20Image%202026-03-25%20at%206.38.02%20PM.jpeg.jpg)
+![User](https://raw.githubusercontent.com/ashutoshraj9065-svg/oldcode/refs/heads/master/rough-scratch/WhatsApp%20Image%202026-03-25%20at%206.38.02%20PM.jpeg)
 
 ### Admin Dashboard
-![Admin](rough-scratch/WhatsApp%20Image%202026-03-25%20at%206.37.56%20PM%20(1).jpeg.jpg)
+![Admin](https://raw.githubusercontent.com/ashutoshraj9065-svg/oldcode/refs/heads/master/rough-scratch/WhatsApp%20Image%202026-03-25%20at%206.37.56%20PM%20(1).jpeg)
 
 ---
 
 ### job detail
-![job](rough-scratch/WhatsApp%20Image%202026-03-25%20at%206.38.01%20PM.jpeg.jpg)
+![job](https://raw.githubusercontent.com/ashutoshraj9065-svg/oldcode/refs/heads/master/rough-scratch/WhatsApp%20Image%202026-03-25%20at%206.38.01%20PM.jpeg)
 
 ---
 
