@@ -26,7 +26,7 @@ It includes multiple pages like landing page, login, signup, dashboard, etc.
 ## 📊 ER DIAGRAM
 
 ### 🔹 ER  Diagram
-![ER diagram](https://raw.githubusercontent.com/ashutoshraj9065-svg/oldcode/refs/heads/master/rough-scratch/ER diagram.jpeg)
+![ER diagram](https://raw.githubusercontent.com/ashutoshraj9065-svg/oldcode/refs/heads/master/rough-scratch/ER%20diagram.jpeg)
 
 
 
