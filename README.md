@@ -72,4 +72,4 @@ It includes multiple pages like landing page, login, signup, dashboard, etc.
 ---
 
 ## 👨‍💻 Author
-Ashutosh Raj
+Ashutosh singh
